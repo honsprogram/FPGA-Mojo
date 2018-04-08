@@ -1,21 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Hiva
+// Engineer: Hossein Zamanian hznewresearch@gmail.com
 // 
 // Create Date:    00:12:31 04/07/2018 
 // Design Name: 
 // Module Name:    pwm 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
+// Project Name:   getting Started
 //
 // Dependencies: 
 //
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
 module mypwm(clk,pwmin,pwmout);
